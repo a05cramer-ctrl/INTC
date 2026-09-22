@@ -2,7 +2,7 @@
 window.INTC_CFG = {
   NAME:   "I'm Not That Clever",
   TICKER: "INTC",
-  CA:     "",
+  CA:     "AN9YoFYnGCTg18AmHuYMzPdPeWfSAVfUBx4CDHLKL58i",
   CHAIN:  "solana",
   PAD:    "stonkfun",      // stonkfun | pumpfun
   PAIR:   "INTC",          // quote token, shown as $INTCx
